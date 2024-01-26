@@ -1,0 +1,18 @@
+.countdown-header {
+    color: blue;
+}
+
+.countdown-text {
+    color: rebeccapurple;
+}
+
+.buttonText {
+    padding: 7px;
+    background-color: cadetblue;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.buttonText:hover {
+    background-color: #2b2b84;
+}
